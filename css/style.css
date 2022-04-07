@@ -5,6 +5,7 @@
 .header{
     min-height: 800px;
     background-color: #F9F6F1;
+    margin: auto;
 }
 
 html, body{
